@@ -1,0 +1,70 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Antonio-Regular
+FamilyName:Antonio
+StyleName:Regular
+FullName:Antonio Regular
+MenuName:Antonio
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:N:\IS\Databases\Marketing databases\Advertising\Brittan 2013-14\Secondary Ed Suite\Secondary Ed Email Blast 2014 Folder\Document fonts\Antonio-Regular.ttf
+DataFormat:sfntData
+FileLength:47944
+FileModTime:1401386898
+WeightClass:400
+WidthClass:1
+AngleClass:0
+NameArray:0,Mac,4,Antonio Regular
+NameArray:0,Win,1,Antonio
+NameArray:0,Win,16,Antonio
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri
+FamilyName:Calibri
+StyleName:Regular
+FullName:Calibri
+MenuName:Calibri
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:N:\IS\Databases\Marketing databases\Advertising\Brittan 2013-14\Secondary Ed Suite\Secondary Ed Email Blast 2014 Folder\Document fonts\CALIBRI.TTF
+DataFormat:sfntData
+FileLength:811052
+FileModTime:1244666594
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Calibri
+NameArray:0,Win,1,Calibri
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:N:\IS\Databases\Marketing databases\Advertising\Brittan 2013-14\Secondary Ed Suite\Secondary Ed Email Blast 2014 Folder\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:217280
+FileModTime:1329332026
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
